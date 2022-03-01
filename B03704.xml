@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue and cry after a Jacobite, or Louisian and a true character to know and distinguish him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03704</idno>
+            <idno type="STC">Wing H3268</idno>
+            <idno type="STC">ESTC R178231</idno>
+            <idno type="EEBO-CITATION">53981665</idno>
+            <idno type="OCLC">ocm 53981665</idno>
+            <idno type="VID">180252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180252)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue and cry after a Jacobite, or Louisian and a true character to know and distinguish him.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jacobites --  Humor --  17th century.</term>
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180252:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>A HUE and CRY AFTER A JACOBITE, OR LOUISIAN: And a True Character to Know and Diſtinguiſh HIM.</head>
+            <argument>
+               <p>Licenſed <date>
+                     <hi>Auguſt</hi> the 5<hi>th.</hi>
+                  </date>
+               </p>
+            </argument>
+            <p>A <hi>JACOBITE</hi> or <hi>Louiſian,</hi> is a cer<g ref="char:EOLhyphen"/>tain Animal of the <hi>Doubtful Gender,</hi> with an <hi>Engliſh</hi> Face, a <hi>French</hi> Heart, a <hi>Jeſuits</hi> Conſcience, and an <hi>Iriſh</hi> Va<g ref="char:EOLhyphen"/>lour, a Creature with a Brazen-Fore<g ref="char:EOLhyphen"/>head, a Thick Skull, Hair Brains, <hi>Bogtrotting</hi> Feet, Supple Hams, and Blood-thirſty Arms. He pruſues the laſt Syllable of his Name, to Bite and Stab a Chri<g ref="char:EOLhyphen"/>ſtian to the Heart, and afterwards Begs his Pardon, that he was miſtaken, aſſuring that no more Blood, (till he has another Opportunity,) ſhall be ſhed upon his ac<g ref="char:EOLhyphen"/>count
+<pb n="2" facs="tcp:180252:2"/>
+               <!-- PDF PAGE 2 -->
+he Diſplays a Red Banner, with the device, or Motto, of <hi>Ninny Mac Nero, Jemy Tranſub,</hi> to ſhew that he maintains the cauſe of the Scarlet Whore, but is grown of late ſo wonderful Baſhful at the ap<g ref="char:EOLhyphen"/>proach of an Enemy, that he avoids and ſhuns his Company as Beggers do a Whipping-poſt, yet he boaſts that he is of the Race of <hi>Noddites,</hi> and retains the Principles of <hi>Cain</hi> the Murderer, and bears the Arms of <hi>Iſſachar,</hi> being an <hi>Aſs Couchant,</hi> and ſeems deſcended from <hi>Eſau.</hi> being ſo ready to Truck away an Invaluable Birth right of Liberty, and Property, for a <hi>French</hi> Kickſhaw and a Nauſeous Meſs of <hi>Iriſh</hi> Pot<g ref="char:EOLhyphen"/>tage; he ſtiles himſelf an Engliſh man, yet acts in all things as <hi>Antipodes</hi> to his Native Countrey, and pre<g ref="char:EOLhyphen"/>tends high, and Swears, <hi>God dam him, he is of the Church of</hi> England; but as he underſtands not her Doctrine, ſo he diſhonors her by his Lewd Converſa<g ref="char:EOLhyphen"/>tion, and is look'd upon by his Pariſhoners as a Thief, who ſecretly ſteals himſelf therein, to give opportunity to let his Complotters in to Rob the houſe. He is a Grab Proteſtant that Crawls Backwards towards <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or at Beſt, the Cars Foot, which the Romiſh Monkeys makes uſe of to pull their ſinking Cauſe out of the Fire.</p>
+            <p>This Creature is a Proteſtant in Maſquerade, a Je<g ref="char:EOLhyphen"/>ſuits Advocate, a Popiſh Sollicitor, a King <hi>James</hi>'s Votary; and tho' they Load him like Aſſes with Bur<g ref="char:EOLhyphen"/>thens, has not the wit to foreſee they only put upon him to do their Drudgery, and muſt expect <hi>Polyphe<g ref="char:EOLhyphen"/>mus</hi>'s
+<pb n="3" facs="tcp:180252:2"/>
+               <!-- PDF PAGE 2 -->
+Courteſie, <hi>To be devoured the Laſt;</hi> to talk So<g ref="char:EOLhyphen"/>berly with him of Religion, he flaps you over the Mouth with Fanaticiſm, and Faction, and Confutes you with the Appellation of Confounded Whigg, and tho' he was one of the firſt that aſſiſted in Endeavour<g ref="char:EOLhyphen"/>ing our Bleſs'd Reformation, purſuing thoſe Wild Boars that would have rooted up the Conſtitution, and break the Ballance of our happy Government, yet for want of the gratification his Ambitiom aim'd at, turns a Grumbletonian Rebel to King <hi>William,</hi> Sowing the Tares of Sedition, but will reap Hemp in Exchange, and the Hangman will have the Cutting of many of them of the Simples: His diſcourſe is all Sham, Noiſe, and Nonſence, whoſe Wit and Courage bears equal force with that of his Cauſe. His Breeches are empty of Caſh, to cheat the Pick-pockets withall. Where<g ref="char:EOLhyphen"/>by you may know him by the Chalk on Peoples doors, and that he is certain in nothing, but breaking of his word.</p>
+            <p>In fine a True <hi>Jacobite,</hi> is <hi>Tranſubſtantiated</hi> in<g ref="char:EOLhyphen"/>to a State Catterpiller, which devours every green thing in a flouriſhing Kingdom, being far more per<g ref="char:EOLhyphen"/>nitious and deſtructive to this <hi>Britiſh</hi> Iſle, then the Locuſts and Caterpillers were to <hi>Egypt;</hi> for they Stab Liberty and Property to the very Heart, that themſelves, like Beaſts of Prey, may wholly live upon Spoile and Rapine, fit Subjects only for <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar,</hi> to herd with the wild Aſſes in the Deſert, to tell a Firſt Rate <hi>Jacobite,</hi> of the Glorious Progreſs of King <hi>William</hi>'s Arms, againſt the Enemie in <hi>Ireland,</hi>
+               <pb n="4" facs="tcp:180252:3"/>
+               <!-- PDF PAGE 3 -->
+he Replies, what's that to the Succeſs of the Fleet, and the deſigns of that Invincible Monarch the <hi>Grand Lewis,</hi> who with his Miſſionary Draggoons is on the Coaſt, to ſettle both the Proteſtant Religion, and King <hi>James</hi> in the Throne: to Ask him, who ſhall adventure to put the Chain about the Lyons Neck when he comes amongſt us? he'll Anſwer, we ought to truſt Providence, and Conſider of that afterwards, Preaching up the Doctrine of <hi>Jure Divino-ſhip,</hi> Non-Reſiſtance, and Paſſive Obedience, and has the Va<g ref="char:EOLhyphen"/>nity to Cajole us, That the <hi>French</hi> King will Religiouſ<g ref="char:EOLhyphen"/>ly preſerve both our Liberties and our Laws, uſing the Proteſtants with the like tenderneſs as his own Sub<g ref="char:EOLhyphen"/>jects, meaning the <hi>Hugonots;</hi> But he is grown of late ſo ſqueemiſh that a Lawful Oath ſtrangely diſturbs his Maw, but on a ſudden the Muligrubs have Violently poſſeſſed him, and is taken with a fit of Singing <hi>Lacry<g ref="char:EOLhyphen"/>mae</hi> to his Cauſe; the Truth is, to miſcarry thus in Pro<g ref="char:EOLhyphen"/>jects, would make a Prieſt out-ſwear a looſing Gam<g ref="char:EOLhyphen"/>ſter. But Chears and Bouys himſelf up, with the Glimmering proſpect of a <hi>French</hi> deſcent, tho' 'tis not in the leaſt doubted, the Deſtruction they deſign for this Nation, will Revert upon their own Heads, and then their Boaſted Loyalty will extend no farther, then a few Drunken Healths, turning Rebel to the Idol they ſet up, for let him Roar and Swagger what he can, he'll continue no farther Faithful, than as his Prince drops his Pence, for its not the Cauſe, like that of Old <hi>Hodg.</hi> but the Cruſt he barks for.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-Printed at <hi>Edinburgh<g ref="char:punc">▪</g>
+               </hi> 1690.</p>
+            <pb facs="tcp:180252:3"/>
+            <!-- PDF PAGE 3 -->
+         </div>
+      </back>
+   </text>
+</TEI>
